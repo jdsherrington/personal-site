@@ -1,4 +1,4 @@
-baseURL: https://jdsherrington.github.io/personal-site/
+baseURL: "https://jdsherrington.github.io/personal-site/"
 languageCode: en-au
 title: Jordan Sherrington
 theme: papermod

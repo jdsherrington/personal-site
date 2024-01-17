@@ -1,38 +1,38 @@
 @font-face {
   font-family: "Inter";
-  src: url("./Inter_Regular.woff2") format("woff2"),
-    url("./Inter_Regular.woff") format("woff");
+  src: url("/fonts/Inter_Regular.woff2") format("woff2"),
+    url("/fonts/Inter_Regular.woff") format("woff");
 }
 
 @font-face {
   font-family: "Inter";
-  src: url("./Inter_Bold.woff2") format("woff2"),
-    url("./Inter_Bold.woff") format("woff");
+  src: url("/fonts/Inter_Bold.woff2") format("woff2"),
+    url("/fonts/Inter_Bold.woff") format("woff");
   font-weight: bold;
 }
 
 @font-face {
   font-family: "SF Pro";
-  src: url("./SFPro_Regular.woff2") format("woff2"),
-    url("./SFPro_Regular.woff") format("woff");
+  src: url("/fonts/SFPro_Regular.woff2") format("woff2"),
+    url("/fonts/SFPro_Regular.woff") format("woff");
 }
 
 @font-face {
   font-family: "SF Pro";
-  src: url("./SFPro_Bold.woff2") format("woff2"),
-    url("./SFPro_Bold.woff") format("woff");
+  src: url("/fonts/SFPro_Bold.woff2") format("woff2"),
+    url("/fonts/SFPro_Bold.woff") format("woff");
   font-weight: bold;
 }
 
 @font-face {
   font-family: "SF Pro";
-  src: url("./SFPro_Italic.woff2") format("woff2"),
-    url("./SFPro_Italic.woff") format("woff");
+  src: url("/fonts/SFPro_Italic.woff2") format("woff2"),
+    url("/fonts/SFPro_Italic.woff") format("woff");
   font-style: italic;
 }
 
 root {
-    --cactus-border-width: 100px !important;
+  --cactus-border-width: 100px !important;
 }
 
 body {
@@ -50,5 +50,3 @@ h6 {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-weight: bold;
 }
-
-

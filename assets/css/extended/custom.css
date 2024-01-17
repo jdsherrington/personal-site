@@ -1,33 +1,33 @@
 @font-face {
   font-family: "Inter";
-  src: url("/fonts/Inter_Regular.woff2") format("woff2"),
-    url("/fonts/Inter_Regular.woff") format("woff");
+  src: url("/personal-site/fonts/Inter_Regular.woff2") format("woff2"),
+    url("/personal-site/fonts/Inter_Regular.woff") format("woff");
 }
 
 @font-face {
   font-family: "Inter";
-  src: url("/fonts/Inter_Bold.woff2") format("woff2"),
-    url("/fonts/Inter_Bold.woff") format("woff");
+  src: url("/personal-site/fonts/Inter_Bold.woff2") format("woff2"),
+    url("/personal-site/fonts/Inter_Bold.woff") format("woff");
   font-weight: bold;
 }
 
 @font-face {
   font-family: "SF Pro";
-  src: url("/fonts/SFPro_Regular.woff2") format("woff2"),
-    url("/fonts/SFPro_Regular.woff") format("woff");
+  src: url("/personal-site/fonts/SFPro_Regular.woff2") format("woff2"),
+    url("/personal-site/fonts/SFPro_Regular.woff") format("woff");
 }
 
 @font-face {
   font-family: "SF Pro";
-  src: url("/fonts/SFPro_Bold.woff2") format("woff2"),
-    url("/fonts/SFPro_Bold.woff") format("woff");
+  src: url("/personal-site/fonts/SFPro_Bold.woff2") format("woff2"),
+    url("/personal-site/fonts/SFPro_Bold.woff") format("woff");
   font-weight: bold;
 }
 
 @font-face {
   font-family: "SF Pro";
-  src: url("/fonts/SFPro_Italic.woff2") format("woff2"),
-    url("/fonts/SFPro_Italic.woff") format("woff");
+  src: url("/personal-site/fonts/SFPro_Italic.woff2") format("woff2"),
+    url("/personal-site/fonts/SFPro_Italic.woff") format("woff");
   font-style: italic;
 }
 
