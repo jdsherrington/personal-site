@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jdsherrington.com/</loc>
+    <loc>https://jdsherrington.github.io/personal-site/</loc>
     <lastmod>2024-01-16T18:47:02+11:00</lastmod>
   </url><url>
-    <loc>https://jdsherrington.com/posts/new-blog-post/</loc>
+    <loc>https://jdsherrington.github.io/personal-site/posts/new-blog-post/</loc>
     <lastmod>2024-01-16T18:47:02+11:00</lastmod>
   </url><url>
-    <loc>https://jdsherrington.com/posts/</loc>
+    <loc>https://jdsherrington.github.io/personal-site/posts/</loc>
     <lastmod>2024-01-16T18:47:02+11:00</lastmod>
   </url><url>
-    <loc>https://jdsherrington.com/posts/example-blog-post/</loc>
+    <loc>https://jdsherrington.github.io/personal-site/posts/example-blog-post/</loc>
     <lastmod>2024-01-15T22:07:18+11:00</lastmod>
   </url><url>
-    <loc>https://jdsherrington.com/posts/my-first-post/</loc>
+    <loc>https://jdsherrington.github.io/personal-site/posts/my-first-post/</loc>
     <lastmod>2024-01-15T18:39:30+11:00</lastmod>
   </url><url>
-    <loc>https://jdsherrington.com/categories/</loc>
+    <loc>https://jdsherrington.github.io/personal-site/categories/</loc>
   </url><url>
-    <loc>https://jdsherrington.com/search/</loc>
+    <loc>https://jdsherrington.github.io/personal-site/search/</loc>
   </url><url>
-    <loc>https://jdsherrington.com/tags/</loc>
+    <loc>https://jdsherrington.github.io/personal-site/tags/</loc>
   </url>
 </urlset>
