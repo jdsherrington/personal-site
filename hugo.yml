@@ -2,6 +2,7 @@ baseURL: https://jdsherrington.github.io/personal-site/
 languageCode: en-au
 title: Jordan Sherrington
 theme: papermod
+
 params:
   defaultTheme: auto
   disableThemeToggle: true
@@ -21,3 +22,7 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+module:
+  imports:
+    - path: "assets/css"
