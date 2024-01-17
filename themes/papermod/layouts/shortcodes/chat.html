@@ -1,0 +1,16 @@
+<script
+  type="text/javascript"
+  src="https://latest.cactus.chat/cactus.js"
+></script>
+
+<div><br /><br /></div>
+<div id="comment-section"></div>
+<script>
+  initComments({
+    node: document.getElementById("comment-section"),
+    defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+    serverName: "cactus.chat",
+    siteName: "jdsherrington.com",
+    commentSectionId: "{{ index .Params 0 }}",
+  });
+</script>
