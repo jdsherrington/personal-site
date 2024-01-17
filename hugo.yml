@@ -22,7 +22,3 @@ outputs:
     - HTML
     - RSS
     - JSON
-
-module:
-  imports:
-    - path: "assets/css"
